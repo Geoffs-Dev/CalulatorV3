@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Token">
+    <Position X="5.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAAAAABAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Token_stream">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAACQAAAAAACAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Source.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Range_error">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAABAAA=</HashCode>
+      <FileName>std_lib_facilities.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Vector&lt;T&gt;">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>std_lib_facilities.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="String">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>std_lib_facilities.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Exit">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>std_lib_facilities.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="std::hash&lt;String&gt;">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>std_lib_facilities.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Unicode" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>std_lib_facilities.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
